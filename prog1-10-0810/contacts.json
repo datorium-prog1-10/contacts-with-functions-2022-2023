@@ -1,0 +1,28 @@
+{
+    "contacts_list": [
+        {
+            "name": "Anna",
+            "surname": "Berzina",
+            "number": "456123456789",
+            "email": "anna.b@somemail.com"
+        },
+        {
+            "name": "Oskars",
+            "surname": "Andersons",
+            "number": "654987654321",
+            "email": "oskars.a@somemail.com"
+        },
+        {
+            "name": "Jenifere",
+            "surname": "Lopez",
+            "number": "654987654321",
+            "email": "jlo@somemail.com"
+        },
+        {
+            "name": "Ingm\u0101rs",
+            "surname": "Karlsons",
+            "number": "654321654987",
+            "email": "ik@somemail.com"
+        }
+    ]
+}

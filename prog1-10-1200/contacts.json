@@ -1,0 +1,22 @@
+{
+    "contacts": [
+        {
+            "name": "Anna",
+            "surname": "B\u0113rzi\u0146a",
+            "phone": "123456789",
+            "email": "ab@somemail.com"
+        },
+        {
+            "name": "Oskars",
+            "surname": "Andersons",
+            "phone": "987654321",
+            "email": "oa@somemail.com"
+        },
+        {
+            "name": "Jenifere",
+            "surname": "Andersone",
+            "phone": "123456987",
+            "email": "ja@someemail.com"
+        }
+    ]
+}
