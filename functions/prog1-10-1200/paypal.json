@@ -1,0 +1,72 @@
+{
+    "items": [
+      {
+        "dispute_id": "PP-000-003-648-191",
+        "create_time": "2017-01-24T10:41:35.000Z",
+        "update_time": "2017-01-24T11:40:32.000Z",
+        "status": "WAITING_FOR_SELLER_RESPONSE",
+        "reason": "MERCHANDISE_OR_SERVICE_NOT_RECEIVED",
+        "dispute_state": "REQUIRED_OTHER_PARTY_ACTION",
+        "dispute_amount": {
+          "currency_code": "USD",
+          "value": "50.00"
+        },
+        "links": [
+          {
+            "href": "https://api-m.sandbox.paypal.com/v1/customer/disputes/PP-000-003-648-191",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      },
+      {
+        "dispute_id": "PP-000-003-648-175",
+        "create_time": "2017-01-24T10:37:23.000Z",
+        "update_time": "2017-01-24T11:32:32.000Z",
+        "status": "UNDER_REVIEW",
+        "reason": "UNAUTHORISED",
+        "dispute_amount": {
+          "currency_code": "USD",
+          "value": "20.00"
+        },
+        "links": [
+          {
+            "href": "https://api-m.sandbox.paypal.com/v1/customer/disputes/PP-000-003-648-175",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      },
+      {
+        "dispute_id": "PP-R-003-648-191",
+        "create_time": "2022-05-24T10:41:35.000Z",
+        "update_time": "2022-05-24T11:40:32.000Z",
+        "status": "WAITING_FOR_SELLER_RESPONSE",
+        "reason": "MERCHANDISE_OR_SERVICE_NOT_RECEIVED",
+        "dispute_state": "REQUIRED_OTHER_PARTY_ACTION",
+        "dispute_asset": {
+          "asset_symbol": "BTC",
+          "quantity": "5.01"
+        },
+        "links": [
+          {
+            "href": "https://api-m.sandbox.paypal.com/v1/customer/disputes/PP-000-003-648-191",
+            "rel": "self",
+            "method": "GET"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "href": "https://api-m.sandbox.paypal.com/v1/customer/disputes",
+        "rel": "self",
+        "method": "GET"
+      },
+      {
+        "href": "https://api-m.sandbox.paypal.com/v1/customer/disputes",
+        "rel": "first",
+        "method": "GET"
+      }
+    ]
+  }
